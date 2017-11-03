@@ -1,0 +1,6 @@
+1、pages 页面
+2、datas.sql 创始化数据
+3、system_tables.jpg ER图
+4、system_tables.pdm ER图，使用PowerDesigner
+5、system_tables.sql 数据库创库脚本
+6、淘表商城需求文档.doc
